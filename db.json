@@ -1,0 +1,66 @@
+{
+    "character": [
+    {
+    "id": 1,
+    "name": "Mario",
+    "game": "Super Mario Bros",
+    "occupation": "Plumber",
+    "skill":"Jump Stomp"
+    }
+    {
+    "id": 2,
+    "name": "Shulk",
+    "game": "Xenoblade Chronicles",
+    "occupation": "Heir to the Monado",
+    "skill":"Monado Buster"
+    }
+    "id": 3,
+    "name": "Link",
+    "game": "Legend of Zelda",
+    "occupation": "Protector of Hyrule",
+    "skill":"Swordsman"
+    }
+    }
+    "id": 4,
+    "name": "Geralt",
+    "game": "The Witcher",
+    "occupation": "Monster Hunter",
+    "skill":"Alchemy"
+    }
+    }
+    "id": 5,
+    "name": "Nemesis",
+    "game": "Resident Evil",
+    "occupation": "Infected Monster",
+    "skill":"Stalker"
+    }
+    ]
+    
+    "consoles": [
+    }
+    "id": 1,
+    "name": "Xbox",
+    "company": "Microsoft",
+    }
+    }
+    "id": 2,
+    "name": "Playstation",
+    "company": "Sony",
+    }
+    }
+    "id": 2,
+    "name": "Playstation",
+    "company": "Sony",
+    }
+    }
+    "id": 3,
+    "name": "Switch",
+    "company": "Nintendo",
+    }
+    ]
+    
+    "projectOwner": 
+    {
+    "name": "Rafael Luna Ribeiro"
+    }
+}
